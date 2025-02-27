@@ -1,6 +1,6 @@
 using Aquality.Selenium.Browsers;
 
-namespace TTP
+namespace TTT
 {
     public class Tests
     {
